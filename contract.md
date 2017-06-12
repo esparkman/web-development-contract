@@ -20,7 +20,7 @@ Customer desires to retain Developer as an independent contractor to develop the
 
 3. **Rights** Customer retains all rights to any graphic assets created under this Agreement by the Developer. Customer acknowledges and agrees that enhancements, bug fixes and other custom developments produced under the scope of this agreement will be subject to release under the GNU Public License v2, or another compatible and relevant open-source license.
 
-4. **Changes in Project Scope** If at any time following acceptance this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the Development Plan, Customer shall submit to Developer a written proposal specifying the desired changes.
+4. **Changes in Project Scope** If at any time following acceptance of this agreement, Customer should desire a change in Developer's performance under this Agreement that will alter or amend the Specifications or other elements of the Development Plan, Customer shall submit to Developer a written proposal specifying the desired changes.
 
    Changes to the Development Plan shall be evidenced by a "Development Plan Modification Agreement". The Development Plan Modification Agreement shall amend the Development Plan appropriately to incorporate the desired changes and acknowledge any effect of such changes on the provisions of this Agreement. The Development Plan Modification Agreement shall be signed by authorized representatives of Customer and Developer, whereupon Developer shall commence performance in accordance with it.
 
